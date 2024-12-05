@@ -12,8 +12,5 @@ CSS for styling and layout.
 JavaScript for dynamic functionality.
 How to Use
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/todolist.git
 Open index.html in your preferred web browser.
 Start adding tasks to manage your day effectively.
